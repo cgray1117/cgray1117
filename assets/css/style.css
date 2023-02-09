@@ -366,7 +366,8 @@ section {
 }
 
 .shadow__btn {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 10px 20px;
   border: none;
   font-size: 10px;
