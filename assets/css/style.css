@@ -366,12 +366,13 @@ section {
 }
 
 .shadow__btn {
+  margin: auto;
   padding: 10px 20px;
   border: none;
-  font-size: 17px;
+  font-size: 10px;
   color: #fff;
   border-radius: 7px;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   font-weight: 700;
   text-transform: uppercase;
   transition: 0.5s;
